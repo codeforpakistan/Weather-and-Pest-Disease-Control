@@ -17,6 +17,6 @@
   "dependencies": {
     "alpinejs": "^3.4.2",
     "axios": "^0.25",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.23"
   }
 }
